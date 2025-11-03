@@ -1,0 +1,1245 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Urgent Notice: City-wide Water Cut for 3 Days Starting Tomorrow",
+      "summary": "Rumors claim a city-wide 3-day water cut starting tomorrow, urging residents to stock up on water",
+      "content": "Recently, social media has spread a notice claiming a 'city-wide 3-day water cut starting tomorrow', citing pipeline maintenance as the reason. After verification with the municipal water authority, this notice is fake—there are no plans for a city-wide water cut in the near future. Only partial areas will have short-term night maintenance (22:00-6:00). Residents are advised not to believe or spread rumors.",
+      "isFake": true,
+      "reporter": "Zhang San",
+      "date": "2025-10-20 08:30",
+      "imageUrl": "https://picsum.photos/id/101/800/400",
+      "voteFake": 28,
+      "voteReal": 5
+    },
+    {
+      "id": 2,
+      "title": "Local Library Adds 100,000 E-books",
+      "summary": "The city library announces 100,000 new e-books, available for free borrowing by residents",
+      "content": "The city library released an announcement today: to enrich residents' reading resources, 100,000 new e-books have been added, covering literature, technology, education, and other fields. Residents can log in via the library's official website or app to borrow books for free. The borrowing period is 14 days, and offline reading is supported.",
+      "isFake": false,
+      "reporter": "Li Si",
+      "date": "2025-10-19 14:15",
+      "imageUrl": "https://picsum.photos/id/20/800/400",
+      "voteFake": 3,
+      "voteReal": 45
+    },
+    {
+      "id": 3,
+      "title": "Melamine Exceedance Found in a Brand of Milk",
+      "summary": "Rumors claim melamine exceeds standards in a well-known milk brand, causing panic in parent groups",
+      "content": "Rumors have spread online that a well-known milk brand's recent batches contain excessive melamine, triggering widespread sharing in parent groups. After sampling and testing by the market supervision bureau, all recent batches of this brand are qualified, and no excessive melamine was found. The online rumor is a tampered old news story from 2010. Please do not spread false information.",
+      "isFake": true,
+      "reporter": "Wang Wu",
+      "date": "2025-10-18 10:00",
+      "imageUrl": "https://picsum.photos/id/42/800/400",
+      "voteFake": 52,
+      "voteReal": 8
+    },
+    {
+      "id": 4,
+      "title": "3 New Bus Routes Launched in the City",
+      "summary": "Starting October 25, 3 new bus routes will be launched, covering suburban areas",
+      "content": "The municipal transportation bureau announced that to facilitate travel for suburban residents, 3 new bus routes will be launched on October 25: Bus Route 201 (Railway Station - Suburban Passenger Station), Route 202 (City Center - Science and Technology Park), and Route 203 (Bus Station - University Town). The first departure time is 6:00, and the last departure time is 22:00, with a 15-minute interval between buses.",
+      "isFake": false,
+      "reporter": "Zhao Liu",
+      "date": "2025-10-17 09:45",
+      "imageUrl": "https://picsum.photos/id/103/800/400",
+      "voteFake": 2,
+      "voteReal": 38
+    },
+    {
+      "id": 5,
+      "title": "Eating Garlic Prevents COVID-19",
+      "summary": "Rumors claim eating garlic can prevent COVID-19; experts refute the claim",
+      "content": "Recently, the claim 'eating 3 cloves of garlic daily can prevent COVID-19' has spread online, attracting widespread sharing among middle-aged and elderly people. Medical experts stated that allicin in garlic has certain antibacterial effects, but there is no scientific evidence that it can prevent COVID-19. Prevention still relies on vaccination and personal protection.",
+      "isFake": true,
+      "reporter": "Sun Qi",
+      "date": "2025-10-16 16:30",
+      "imageUrl": "https://picsum.photos/id/1080/800/400",
+      "voteFake": 65,
+      "voteReal": 12
+    },
+    {
+      "id": 6,
+      "title": "2025 National College Student Programming Competition Launches Next Month",
+      "summary": "Ministry of Education announces the 2025 National College Student Programming Competition will start in November, open to universities nationwide",
+      "content": "The Higher Education Department of the Ministry of Education released a notice today: the 2025 National College Student Programming Competition will open for registration on November 1, with the final in December. The competition is open to undergraduate students in full-time universities nationwide, with three tracks: algorithm programming, web development, and artificial intelligence. Winners will receive postgraduate recommendation points or corporate internship opportunities.",
+      "isFake": false,
+      "reporter": "Zhou Ba",
+      "date": "2025-10-15 11:20",
+      "imageUrl": "https://picsum.photos/id/0/800/400",
+      "voteFake": 1,
+      "voteReal": 50
+    },
+    {
+      "id": 7,
+      "title": "Answering Calls While Charging Phones Causes Explosions",
+      "summary": "Rumors claim answering calls while charging phones causes explosions, with multiple injuries reported",
+      "content": "Rumors of 'explosions from answering calls while charging phones' have spread online, accompanied by photos of 'injured people'. After verification, the photos are old images from 2018, and the probability of phone explosions from answering calls while charging is extremely low—it only occurs when using non-original chargers with faulty batteries. Experts advise using original accessories and not panicking excessively.",
+      "isFake": true,
+      "reporter": "Wu Jiu",
+      "date": "2025-10-14 15:00",
+      "imageUrl": "https://picsum.photos/id/119/800/400",
+      "voteFake": 42,
+      "voteReal": 9
+    },
+    {
+      "id": 8,
+      "title": "5 New Fitness Facilities Added to City Parks",
+      "summary": "The municipal garden bureau added fitness facilities to 5 parks, open to residents for free",
+      "content": "The municipal garden bureau completed the upgrade of fitness facilities in 5 parks today: People's Park, West Lake Park, Sports Park, Forest Park, and Riverside Park each added a batch of fitness equipment (treadmills, horizontal bars, tai chi wheels, etc.). All facilities are open to residents for free, with operating hours from 6:00 to 22:00. Regular maintenance will be conducted in the future.",
+      "isFake": false,
+      "reporter": "Zheng Shi",
+      "date": "2025-10-13 08:10",
+      "imageUrl": "https://picsum.photos/id/175/800/400",
+      "voteFake": 0,
+      "voteReal": 32
+    },
+    {
+      "id": 9,
+      "title": "A Celebrity Announces Retirement from the Entertainment Industry",
+      "summary": "Rumors claim a top celebrity will retire from the entertainment industry due to health issues",
+      "content": "Recently, social media has spread news that 'a top celebrity will retire from the entertainment industry due to depression', accompanied by a 'handwritten statement' image. After verification with the celebrity's studio, the statement is fake—the celebrity is currently filming a new drama and is in good health. The studio urges netizens not to believe or spread rumors and will pursue legal responsibility against rumormongers.",
+      "isFake": true,
+      "reporter": "Qian Shiyi",
+      "date": "2025-10-12 19:40",
+      "imageUrl": "https://picsum.photos/id/338/800/400",
+      "voteFake": 35,
+      "voteReal": 7
+    },
+    {
+      "id": 10,
+      "title": "After-school Services Implemented in City Primary and Secondary Schools from November 1",
+      "summary": "Municipal Education Bureau: After-school services will be implemented in primary and secondary schools from November 1, with dismissal at 17:30",
+      "content": "The municipal education bureau released the 'Notice on Further Improving After-school Services in Primary and Secondary Schools', clarifying that starting November 1, after-school services will be implemented in all primary and secondary schools in the city. The service hours are from 15:30 to 17:30, including homework guidance and interest clubs (art, sports, programming, etc.). Parents can register voluntarily, and the cost is shared by government subsidies and parents (50 yuan per student per month).",
+      "isFake": false,
+      "reporter": "Feng Shier",
+      "date": "2025-10-11 10:50",
+      "imageUrl": "https://picsum.photos/id/452/800/400",
+      "voteFake": 1,
+      "voteReal": 41
+    },
+    {
+      "id": 11,
+      "title": "Salt Can Cure High Blood Pressure",
+      "summary": "Rumors claim drinking salt water daily can cure high blood pressure, spreading in elderly communities",
+      "content": "A post claiming 'drinking a glass of salt water every morning can cure high blood pressure' has been widely shared in WeChat groups for the elderly. Cardiologists emphasize that this is completely unscientific—high salt intake will only increase blood pressure and加重 cardiovascular burden. Patients with high blood pressure should follow medical advice, control salt intake, and take medication regularly.",
+      "isFake": true,
+      "reporter": "Chen Thirteen",
+      "date": "2025-10-10 07:20",
+      "imageUrl": "https://picsum.photos/id/1060/800/400",
+      "voteFake": 78,
+      "voteReal": 15
+    },
+    {
+      "id": 12,
+      "title": "City Hospital Opens 24-hour Pediatric Clinic",
+      "summary": "The city's main hospital launches a 24-hour pediatric clinic to address nighttime emergency needs",
+      "content": "In response to the difficulty of seeking pediatric care at night, the city's central hospital officially opened a 24-hour pediatric clinic on October 9. The clinic is equipped with 5 senior pediatricians and 10 nurses, covering common childhood illnesses such as fever, cough, and diarrhea. Parents can go directly to the emergency building on the west side of the hospital without prior appointment.",
+      "isFake": false,
+      "reporter": "Yang Fourteen",
+      "date": "2025-10-09 13:10",
+      "imageUrl": "https://picsum.photos/id/287/800/400",
+      "voteFake": 2,
+      "voteReal": 63
+    },
+    {
+      "id": 13,
+      "title": "Smartphones Emit Radiation That Causes Brain Cancer",
+      "summary": "Viral video claims smartphone radiation directly causes brain cancer, warning users to stop using phones",
+      "content": "A 3-minute video titled 'Smartphone Radiation Kills: 10 Cases of Brain Cancer Caused by Phone Use' has gone viral on social media. The World Health Organization (WHO) has previously stated that smartphone radiation (non-ionizing radiation) is far below the threshold for causing cancer. The cases in the video were proven to be unrelated to phone use after investigation. Experts remind the public to avoid excessive panic from unsubstantiated claims.",
+      "isFake": true,
+      "reporter": "Huang Fifteen",
+      "date": "2025-10-08 19:00",
+      "imageUrl": "https://picsum.photos/id/119/800/400",
+      "voteFake": 92,
+      "voteReal": 23
+    },
+    {
+      "id": 14,
+      "title": "City Launches Public Bike-sharing Expansion Plan",
+      "summary": "1,000 new shared bikes to be added, covering 20 more communities and 5 subway stations",
+      "content": "The city's transportation department announced a bike-sharing expansion plan today: 1,000 new shared bikes will be put into use by the end of October, increasing the total number to 5,000. The new bikes will cover 20 residential communities and 5 subway stations in the eastern and southern districts, improving the 'last-mile' travel experience for residents. The bike-sharing app will also add a 'real-time bike availability' function.",
+      "isFake": false,
+      "reporter": "Xu Sixteen",
+      "date": "2025-10-07 10:45",
+      "imageUrl": "https://picsum.photos/id/1059/800/400",
+      "voteFake": 1,
+      "voteReal": 48
+    },
+    {
+      "id": 15,
+      "title": "Eating Tomatoes at Night Causes Insomnia",
+      "summary": "Rumors claim tomatoes contain 'sleep-inhibiting substances' that cause insomnia if eaten at night",
+      "content": "A food blog post claims that 'eating tomatoes after 8 PM will release melatonin-inhibiting substances, leading to insomnia'. Nutritionists point out that tomatoes are rich in lycopene and vitamins, and there is no scientific basis for the claim that they cause insomnia. In fact, tomatoes contain small amounts of tryptophan, which helps with sleep. The rumor may have confused tomatoes with caffeinated foods like chocolate or coffee.",
+      "isFake": true,
+      "reporter": "Zhu Seventeen",
+      "date": "2025-10-06 18:20",
+      "imageUrl": "https://picsum.photos/id/1080/800/400",
+      "voteFake": 56,
+      "voteReal": 18
+    },
+    {
+      "id": 16,
+      "title": "Local Museum Hosts Ancient Chinese Calligraphy Exhibition",
+      "summary": "The city museum will hold a 1-month ancient calligraphy exhibition starting October 10",
+      "content": "The city museum announced today that it will host the 'Treasures of Ancient Calligraphy' exhibition from October 10 to November 10. The exhibition will display 50 pieces of ancient calligraphy, including works by famous calligraphers from the Tang, Song, Yuan, Ming, and Qing dynasties. Admission is free for residents with ID cards, and guided tours will be provided at 10 AM and 2 PM daily. The museum reminds visitors to make online reservations in advance due to limited capacity.",
+      "isFake": false,
+      "reporter": "He Eighteen",
+      "date": "2025-10-05 09:30",
+      "imageUrl": "https://picsum.photos/id/175/800/400",
+      "voteFake": 0,
+      "voteReal": 35
+    },
+    {
+      "id": 17,
+      "title": "5G Signals Can Spread Viruses",
+      "summary": "Conspiracy theory claims 5G signals weaken the immune system and spread viruses",
+      "content": "A conspiracy theory video circulating on social media claims that '5G signals damage the human immune system, making people more susceptible to viruses, and even spread viruses through signal waves'. This claim has been thoroughly refuted by the scientific community: 5G signals are radio waves, which have no ability to carry or spread viruses. The World Health Organization and the International Telecommunication Union (ITU) have both issued statements confirming the safety of 5G technology.",
+      "isFake": true,
+      "reporter": "Luo Nineteen",
+      "date": "2025-10-04 14:50",
+      "imageUrl": "https://picsum.photos/id/103/800/400",
+      "voteFake": 112,
+      "voteReal": 31
+    },
+    {
+      "id": 18,
+      "title": "City Introduces Electronic Vehicle Charging Subsidies",
+      "summary": "New EV owners can receive a 2,000-yuan charging subsidy, promoting green travel",
+      "content": "The city's finance bureau and transportation bureau jointly issued a notice today: residents who purchase new electric vehicles (EVs) between October 2025 and March 2026 can apply for a 2,000-yuan charging subsidy. The subsidy will be issued in the form of rechargeable cards for public charging stations. Additionally, 50 new public charging piles will be installed in downtown parking lots by the end of the year to address EV owners' charging concerns.",
+      "isFake": false,
+      "reporter": "Ma Twenty",
+      "date": "2025-10-03 11:15",
+      "imageUrl": "https://picsum.photos/id/106/800/400",
+      "voteFake": 3,
+      "voteReal": 72
+    },
+    {
+      "id": 19,
+      "title": "Microwaving Food Destroys Nutrients and Produces Toxins",
+      "summary": "Rumors claim microwaves destroy 90% of food nutrients and create harmful toxins",
+      "content": "A widely shared article claims that 'microwaving food destroys most nutrients and produces carcinogenic toxins like formaldehyde'. Food science experts clarify that microwaving is one of the healthiest cooking methods—it uses low heat and short time, which actually preserves more nutrients than boiling or frying. There is no scientific evidence that microwaving produces harmful toxins when using microwave-safe containers.",
+      "isFake": true,
+      "reporter": "Gao Twenty-one",
+      "date": "2025-10-02 17:40",
+      "imageUrl": "https://picsum.photos/id/237/800/400",
+      "voteFake": 85,
+      "voteReal": 27
+    },
+    {
+      "id": 20,
+      "title": "City Holds Autumn Agricultural Products Fair",
+      "summary": "The 10th Autumn Agricultural Products Fair opens, showcasing over 1,000 local products",
+      "content": "The 10th City Autumn Agricultural Products Fair opened at the International Exhibition Center today. The fair covers an area of 10,000 square meters, with 200 booths displaying over 1,000 local agricultural products, including organic vegetables, fruits, grains, and processed foods. Visitors can taste products for free and purchase directly from farmers at preferential prices. The fair will run until October 7, and admission is free.",
+      "isFake": false,
+      "reporter": "Lin Twenty-two",
+      "date": "2025-10-01 08:00",
+      "imageUrl": "https://picsum.photos/id/42/800/400",
+      "voteFake": 1,
+      "voteReal": 59
+    },
+    {
+      "id": 21,
+      "title": "Wearing Masks for Long Periods Causes Oxygen Deficiency",
+      "summary": "Rumors claim wearing masks for more than 2 hours causes oxygen deficiency and brain damage",
+      "content": "A post shared in health groups claims that 'wearing a mask for over 2 hours reduces oxygen intake by 30%, leading to oxygen deficiency, dizziness, and even permanent brain damage'. Respiratory experts explain that standard medical masks have good air permeability—normal adults wearing masks will not experience oxygen deficiency under normal activities. The claim of 'brain damage' is completely unfounded and may cause unnecessary panic among the public.",
+      "isFake": true,
+      "reporter": "Cheng Twenty-three",
+      "date": "2025-09-30 15:20",
+      "imageUrl": "https://picsum.photos/id/24/800/400",
+      "voteFake": 98,
+      "voteReal": 34
+    },
+    {
+      "id": 22,
+      "title": "City Library Launches Online Reading Clubs for Children",
+      "summary": "Weekly online reading clubs to help children develop reading habits during holidays",
+      "content": "The city library announced the launch of 'Children's Online Reading Clubs' today, targeting children aged 6-12. The clubs will be held every Saturday at 3 PM via Zoom, with themes including fairy tales, science popularization, and history. Each session will be led by a professional librarian, who will guide children in reading, discussing, and sharing. Parents can register their children for free through the library's official WeChat account.",
+      "isFake": false,
+      "reporter": "Hu Twenty-four",
+      "date": "2025-09-29 10:30",
+      "imageUrl": "https://picsum.photos/id/20/800/400",
+      "voteFake": 0,
+      "voteReal": 42
+    },
+    {
+      "id": 23,
+      "title": "Drinking Coconut Water Can Replace Blood Transfusions",
+      "summary": "Viral claim that coconut water has the same composition as blood and can be used for emergency transfusions",
+      "content": "A social media post claims that 'coconut water is sterile and has a similar electrolyte composition to human blood, so it can be injected as an emergency blood transfusion substitute'. This is a dangerous myth—coconut water contains high levels of potassium and lacks essential components like red blood cells and platelets. Injecting coconut water into the bloodstream can cause hyperkalemia, heart failure, and even death. Medical experts warn that this method should never be attempted.",
+      "isFake": true,
+      "reporter": "Peng Twenty-five",
+      "date": "2025-09-28 18:10",
+      "imageUrl": "https://picsum.photos/id/101/800/400",
+      "voteFake": 135,
+      "voteReal": 42
+    },
+    {
+      "id": 24,
+      "title": "City Improves Public Transportation Payment System",
+      "summary": "Support for Alipay, WeChat Pay, and UnionPay in all buses and subways",
+      "content": "The city's transportation card company announced that starting October 1, all buses and subways will support multiple mobile payment methods, including Alipay, WeChat Pay, and UnionPay. Passengers no longer need to carry a physical transportation card—they can simply scan the QR code on their phone or tap their bank card to pay. The company also stated that a 10% discount will be offered for mobile payments in October to promote the new system.",
+      "isFake": false,
+      "reporter": "Xue Twenty-six",
+      "date": "2025-09-27 14:00",
+      "imageUrl": "https://picsum.photos/id/1059/800/400",
+      "voteFake": 2,
+      "voteReal": 68
+    },
+    {
+      "id": 25,
+      "title": "Using Mobile Phones Near Gas Stations Causes Explosions",
+      "summary": "Rumors claim mobile phone signals ignite gasoline vapors, causing gas station explosions",
+      "content": "A widely circulated warning claims that 'using mobile phones to make calls or send messages near gas stations can trigger explosions by igniting gasoline vapors'. The Petroleum Equipment Institute has conducted experiments showing that mobile phone signals do not have enough energy to ignite gasoline vapors. The real dangers at gas stations are open flames, static electricity, and smoking. Most gas stations ban mobile phone use to prevent distractions, not explosions.",
+      "isFake": true,
+      "reporter": "Deng Twenty-seven",
+      "date": "2025-09-26 09:15",
+      "imageUrl": "https://picsum.photos/id/119/800/400",
+      "voteFake": 105,
+      "voteReal": 38
+    },
+    {
+      "id": 26,
+      "title": "Local University Establishes Artificial Intelligence Research Center",
+      "summary": "The university invests 50 million yuan to build an AI research center, focusing on medical and educational applications",
+      "content": "The city's university announced today the establishment of the 'Artificial Intelligence Research Center', with a total investment of 50 million yuan. The center will focus on AI applications in medical diagnosis, intelligent education, and smart city construction. It has recruited 10 leading AI experts from home and abroad and will cooperate with 5 high-tech enterprises to promote the transformation of research results. The center is expected to start operations in January 2026.",
+      "isFake": false,
+      "reporter": "Zeng Twenty-eight",
+      "date": "2025-09-25 16:40",
+      "imageUrl": "https://picsum.photos/id/0/800/400",
+      "voteFake": 1,
+      "voteReal": 55
+    },
+    {
+      "id": 27,
+      "title": "Eating Eggs Every Day Increases Cholesterol and Causes Heart Disease",
+      "summary": "Rumors claim daily egg consumption raises blood cholesterol and increases heart disease risk",
+      "content": "An old rumor claiming 'eating one egg a day increases blood cholesterol and doubles the risk of heart disease' has resurfaced on social media. Recent studies by the American Heart Association show that dietary cholesterol has little impact on blood cholesterol levels for most people. Eggs are rich in high-quality protein, vitamins, and minerals, and daily consumption is safe for healthy individuals. Only people with severe hypercholesterolemia need to limit egg intake under medical advice.",
+      "isFake": true,
+      "reporter": " Liang Twenty-nine",
+      "date": "2025-09-24 11:20",
+      "imageUrl": "https://picsum.photos/id/1080/800/400",
+      "voteFake": 82,
+      "voteReal": 29
+    },
+    {
+      "id": 28,
+      "title": "City Launches Garbage Classification Reward Program",
+      "summary": "Residents who correctly classify garbage can earn points to exchange for daily necessities",
+      "content": "The city's environmental protection bureau launched a garbage classification reward program today. Residents can download the 'Green City' app, register their household information, and earn points by correctly classifying and disposing of garbage (10 points per correct disposal). Accumulated points can be exchanged for daily necessities such as laundry detergent, tissue paper, and cooking oil at designated supermarkets. The program aims to improve residents' garbage classification awareness and participation.",
+      "isFake": false,
+      "reporter": "Song Thirty",
+      "date": "2025-09-23 08:30",
+      "imageUrl": "https://picsum.photos/id/175/800/400",
+      "voteFake": 0,
+      "voteReal": 49
+    },
+    {
+      "id": 29,
+      "title": "WiFi Signals Cause Infertility in Men",
+      "summary": "Rumors claim long-term exposure to WiFi signals reduces sperm count and causes infertility",
+      "content": "A post shared in men's health groups claims that 'using WiFi routers in bedrooms for more than 8 hours a day reduces sperm count by 50% and causes male infertility'. Urologists clarify that WiFi signals are low-frequency radio waves with very weak energy, which do not damage sperm or affect male fertility. Multiple studies have confirmed that there is no correlation between WiFi exposure and infertility. The rumor may stem from misunderstandings about 'radiation'.",
+      "isFake": true,
+      "reporter": " Xie Thirty-one",
+      "date": "2025-09-22 15:50",
+      "imageUrl": "https://picsum.photos/id/103/800/400",
+      "voteFake": 95,
+      "voteReal": 33
+    },
+    {
+      "id": 30,
+      "title": "Local Art Gallery Hosts Young Artists' Exhibition",
+      "summary": "The 5th Young Artists' Exhibition opens, featuring works by 100 artists under 35",
+      "content": "The city's art gallery opened the 5th 'Young Artists' Exhibition' today, showcasing over 200 works by 100 young artists under the age of 35. The works cover various forms, including oil painting, watercolor, sculpture, and photography, with themes focusing on urban life, environmental protection, and cultural heritage. The exhibition will run until November 5, and tickets can be purchased online for 20 yuan (free for students with student ID cards).",
+      "isFake": false,
+      "reporter": " Wei Thirty-two",
+      "date": "2025-09-21 10:00",
+      "imageUrl": "https://picsum.photos/id/338/800/400",
+      "voteFake": 1,
+      "voteReal": 41
+    },
+    {
+      "id": 31,
+      "title": "Drinking Vinegar Every Day Dissolves Blood Clots",
+      "summary": "Rumors claim daily vinegar consumption dissolves blood clots and prevents strokes",
+      "content": "A health article claiming 'drinking a glass of apple cider vinegar every morning dissolves blood clots and reduces stroke risk' has been widely shared. Cardiovascular experts warn that vinegar is acidic and has no effect on dissolving existing blood clots. Long-term excessive vinegar consumption can damage tooth enamel and irritate the stomach lining. Preventing blood clots requires a healthy diet, regular exercise, and medication for high-risk groups—vinegar cannot replace medical treatment.",
+      "isFake": true,
+      "reporter": "Hong Thirty-three",
+      "date": "2025-09-20 17:20",
+      "imageUrl": "https://picsum.photos/id/1060/800/400",
+      "voteFake": 76,
+      "voteReal": 22
+    },
+    {
+      "id": 32,
+      "title": "City Expands Free Public WiFi Coverage",
+      "summary": "1,000 new free WiFi hotspots to be installed in parks, squares, and bus stations",
+      "content": "The city's information technology bureau announced today that it will expand free public WiFi coverage by installing 1,000 new hotspots by the end of November. The new hotspots will be located in public areas such as parks, squares, bus stations, and subway stations, bringing the total number of free public WiFi hotspots to 3,000. Residents can connect to the 'City-Free-WiFi' network without a password, and the network speed will be upgraded to 100 Mbps to meet basic browsing and video needs.",
+      "isFake": false,
+      "reporter": "Kang Thirty-four",
+      "date": "2025-09-19 13:40",
+      "imageUrl": "https://picsum.photos/id/1059/800/400",
+      "voteFake": 2,
+      "voteReal": 61
+    },
+    {
+      "id": 33,
+      "title": "Fluoride in Toothpaste Causes Cancer",
+      "summary": "Conspiracy theory claims fluoride in toothpaste is a 'carcinogen' and should be avoided",
+      "content": "A conspiracy theory video claims that 'fluoride added to toothpaste is a toxic substance that causes bone cancer and thyroid cancer'. The American Dental Association (ADA) and the World Health Organization (WHO) confirm that fluoride is safe and effective in preventing tooth decay when used in recommended amounts. Toothpaste contains low concentrations of fluoride, and there is no scientific evidence linking fluoride toothpaste to cancer. Avoiding fluoride can increase the risk of cavities.",
+      "isFake": true,
+      "reporter": "Yuan Thirty-five",
+      "date": "2025-09-18 09:50",
+      "imageUrl": "https://picsum.photos/id/237/800/400",
+      "voteFake": 108,
+      "voteReal": 36
+    },
+    {
+      "id": 34,
+      "title": "Local Zoo Welcomes Two Giant Panda Cubs",
+      "summary": "The city zoo's giant panda couple gives birth to twin cubs, open to the public in November",
+      "content": "The city zoo announced today that its giant panda couple, 'Le Le' and 'Ying Ying', gave birth to twin cubs on September 15. The cubs are both female, weighing 120 grams and 135 grams respectively. They are currently being cared for by zookeepers in a temperature-controlled nursery, and their health is stable. The zoo plans to open a special exhibition area for the panda cubs in early November, allowing visitors to see them. Tickets for the panda area will be available for booking online from October 20.",
+      "isFake": false,
+      "reporter": "Guo Thirty-six",
+      "date": "2025-09-17 15:10",
+      "imageUrl": "https://picsum.photos/id/287/800/400",
+      "voteFake": 0,
+      "voteReal": 83
+    },
+    {
+      "id": 35,
+      "title": "Eating Brown Sugar Can Replenish Blood After Menstruation",
+      "summary": "Traditional belief claims brown sugar water replenishes blood for women after menstruation",
+      "content": "A widely held traditional belief claims that 'drinking brown sugar water after menstruation can replenish blood and relieve fatigue'. Nutritionists explain that brown sugar is mainly composed of sucrose, with very low levels of iron (the key nutrient for blood replenishment). The iron content in brown sugar is only 2.2 mg per 100 grams, far lower than that in red meat (3-4 mg per 100 grams) or spinach (2.9 mg per 100 grams). Replenishing blood after menstruation requires iron-rich foods, not brown sugar.",
+      "isFake": true,
+      "reporter": "Shen Thirty-seven",
+      "date": "2025-09-16 11:30",
+      "imageUrl": "https://picsum.photos/id/1080/800/400",
+      "voteFake": 69,
+      "voteReal": 25
+    },
+    {
+      "id": 36,
+      "title": "City Launches Elderly Meal Delivery Service",
+      "summary": "Free meal delivery for elderly residents over 80, covering 50 communities",
+      "content": "The city's civil affairs bureau launched an elderly meal delivery service today, targeting elderly residents over 80 years old who live alone or have difficulty cooking. The service will cover 50 communities in the city, providing two meals a day (lunch and dinner) for free. Each meal includes a meat dish, two vegetable dishes, and a staple food, with nutrition tailored to the elderly's needs (low salt, low oil, soft texture). Elderly residents or their families can apply for the service through their community neighborhood committee.",
+      "isFake": false,
+      "reporter": "Han Thirty-eight",
+      "date": "2025-09-15 08:20",
+      "imageUrl": "https://picsum.photos/id/42/800/400",
+      "voteFake": 1,
+      "voteReal": 77
+    },
+    {
+      "id": 37,
+      "title": "Mobile Phone Radiation Causes Hair Loss",
+      "summary": "Rumors claim sleeping with mobile phones near the head causes hair loss",
+      "content": "A post shared by young people claims that 'sleeping with a mobile phone next to the pillow exposes the head to radiation, leading to hair loss and premature baldness'. Dermatologists clarify that mobile phone radiation is non-ionizing and does not damage hair follicles. The main causes of hair loss are genetics, stress, hormonal changes, and nutritional deficiencies. There is no scientific evidence linking mobile phone use to hair loss. The rumor may reflect people's anxiety about hair loss and modern technology.",
+      "isFake": true,
+      "reporter": "Yao Thirty-nine",
+      "date": "2025-09-14 16:00",
+      "imageUrl": "https://picsum.photos/id/119/800/400",
+      "voteFake": 88,
+      "voteReal": 30
+    },
+    {
+      "id": 38,
+      "title": "Local Bookstore Hosts Author Signing Event",
+      "summary": "Famous novelist will hold a book signing and sharing session on September 20",
+      "content": "The city's largest bookstore announced today that famous novelist Li Ming will hold a book signing and reading sharing session on September 20 at 2 PM. Li Ming will promote his new novel 'The City of Memories', which tells the story of urban changes over the past 30 years. During the event, Li Ming will share his creative experience and answer questions from readers. Attendees can purchase the book on-site to get a signed copy. The bookstore reminds readers to arrive early as seating is limited.",
+      "isFake": false,
+      "reporter": "Xu Forty",
+      "date": "2025-09-13 10:45",
+      "imageUrl": "https://picsum.photos/id/20/800/400",
+      "voteFake": 0,
+      "voteReal": 44
+    },
+    {
+      "id": 39,
+      "title": "Eating Watermelon Seeds Causes Appendicitis",
+      "summary": "Childhood myth claims swallowing watermelon seeds causes appendicitis",
+      "content": "A long-standing childhood myth claims that 'swallowing watermelon seeds will cause them to germinate in the stomach and lead to appendicitis'. Gastroenterologists explain that watermelon seeds are small and smooth, and will pass through the digestive system unabsorbed and be excreted in feces. Appendicitis is usually caused by a blockage of the appendix lumen by fecal stones or inflammation, not by swallowed seeds. There has never been a clinical case of appendicitis caused by watermelon seeds.",
+      "isFake": true,
+      "reporter": "Hu Forty-one",
+      "date": "2025-09-12 14:30",
+      "imageUrl": "https://picsum.photos/id/1080/800/400",
+      "voteFake": 73,
+      "voteReal": 21
+    },
+    {
+      "id": 40,
+      "title": "City Installs Smart Parking Meters in Downtown Area",
+      "summary": "100 smart parking meters to be installed, supporting mobile payment and real-time status checks",
+      "content": "The city's parking management office announced today that 100 smart parking meters will be installed in the downtown area by the end of September. The smart meters support mobile payment (Alipay, WeChat Pay) and can be remotely monitored for real-time parking space availability via the 'Smart Parking' app. Drivers can use the app to find available parking spaces, pay for parking, and extend parking time remotely. The parking fee will remain the same at 5 yuan per hour.",
+      "isFake": false,
+      "reporter": "Zou Forty-two",
+      "date": "2025-09-11 09:10",
+      "imageUrl": "https://picsum.photos/id/106/800/400",
+      "voteFake": 2,
+      "voteReal": 58
+    },
+    {
+      "id": 41,
+      "title": "Air Conditioners Spread Viruses in Closed Rooms",
+      "summary": "Rumors claim air conditioners circulate viruses and increase infection risk",
+      "content": "A rumor during the flu season claims that 'using air conditioners in closed rooms circulates viruses, making everyone in the room sick'. HVAC experts explain that modern air conditioners with HEPA filters can filter out most viruses and bacteria. The key to preventing virus spread in closed rooms is regular ventilation (opening windows for 10-15 minutes every 2-3 hours) and maintaining proper humidity (40-60%). Using air conditioners alone does not increase virus transmission risk if used correctly.",
+      "isFake": true,
+      "reporter": "Peng Forty-three",
+      "date": "2025-09-10 17:50",
+      "imageUrl": "https://picsum.photos/id/103/800/400",
+      "voteFake": 91,
+      "voteReal": 35
+    },
+    {
+      "id": 42,
+      "title": "Local School Wins National Robotics Competition",
+      "summary": "The city's No. 1 Middle School wins the national middle school robotics competition",
+      "content": "The city's No. 1 Middle School announced today that its robotics team won the first prize at the 2025 National Middle School Robotics Competition held in Beijing. The team's entry, a 'smart home service robot', can perform tasks such as cleaning, monitoring, and assisting the elderly. The competition attracted 200 teams from across the country, and the No. 1 Middle School team stood out with their innovative design and stable performance. The team will represent China in the international competition next year.",
+      "isFake": false,
+      "reporter": "Liao Forty-four",
+      "date": "2025-09-09 11:50",
+      "imageUrl": "https://picsum.photos/id/0/800/400",
+      "voteFake": 1,
+      "voteReal": 66
+    },
+    {
+      "id": 43,
+      "title": "Drinking Green Tea Can Cure Diabetes",
+      "summary": "Rumors claim drinking 3 cups of green tea daily cures type 2 diabetes",
+      "content": "A health post claims that 'drinking 3 cups of green tea every day can lower blood sugar and cure type 2 diabetes without medication'. Endocrinologists clarify that green tea contains catechins, which may have a slight blood sugar-lowering effect, but cannot replace diabetes medication. Type 2 diabetes is a chronic disease that requires comprehensive management, including diet control, exercise, and medication. Relying on green tea to treat diabetes can lead to serious complications such as high blood sugar and kidney damage.",
+      "isFake": true,
+      "reporter": "Deng Forty-five",
+      "date": "2025-09-08 15:20",
+      "imageUrl": "https://picsum.photos/id/1060/800/400",
+      "voteFake": 85,
+      "voteReal": 28
+    },
+    {
+      "id": 44,
+      "title": "City Opens New Public Swimming Pool",
+      "summary": "The new public swimming pool in the western district opens, with free admission for children under 12",
+      "content": "The city's sports bureau announced that the new public swimming pool in the western district officially opened today. The pool covers an area of 2,000 square meters, with a standard 50-meter main pool and a children's wading pool. It is equipped with water circulation and disinfection systems to ensure water quality. The opening hours are 9 AM to 9 PM daily, and the admission fee is 20 yuan for adults and free for children under 12. The pool also offers swimming lessons for beginners on weekends.",
+      "isFake": false,
+      "reporter": "Xiang Forty-six",
+      "date": "2025-09-07 08:40",
+      "imageUrl": "https://picsum.photos/id/175/800/400",
+      "voteFake": 0,
+      "voteReal": 52
+    },
+    {
+      "id": 45,
+      "title": "Bluetooth Headphones Cause Ear Cancer",
+      "summary": "Rumors claim long-term use of Bluetooth headphones causes ear canal cancer",
+      "content": "A viral article claims that 'using Bluetooth headphones for more than 4 hours a day exposes the ear canal to radiation, increasing the risk of ear cancer'. Otolaryngologists explain that Bluetooth headphones use low-power radio waves, which are far below the threshold for causing cancer. The real risks of long-term headphone use are hearing damage from high volume and ear infections from poor hygiene, not cancer. Experts recommend keeping the volume below 60% and cleaning headphones regularly.",
+      "isFake": true,
+      "reporter": "Gong Forty-seven",
+      "date": "2025-09-06 16:40",
+      "imageUrl": "https://picsum.photos/id/119/800/400",
+      "voteFake": 97,
+      "voteReal": 32
+    },
+    {
+      "id": 46,
+      "title": "Local Farmers' Market Launches Online Ordering Service",
+      "summary": "Residents can order fresh vegetables and fruits online, with same-day delivery",
+      "content": "The city's largest farmers' market launched an online ordering service today. Residents can download the 'Fresh Market' app, browse and order fresh vegetables, fruits, meat, and seafood from market vendors. Orders placed before 10 AM will be delivered the same day, and orders placed after 10 AM will be delivered the next day. The delivery fee is 5 yuan for orders under 50 yuan and free for orders over 50 yuan. The market guarantees that all products are fresh and sourced directly from local farms.",
+      "isFake": false,
+      "reporter": "Xiao Forty-eight",
+      "date": "2025-09-05 10:20",
+      "imageUrl": "https://picsum.photos/id/42/800/400",
+      "voteFake": 1,
+      "voteReal": 47
+    },
+    {
+      "id": 47,
+      "title": "Eating Chocolate Causes Acne",
+      "summary": "Common belief claims chocolate consumption triggers acne breakouts",
+      "content": "A widely held belief claims that 'eating chocolate, especially dark chocolate, causes acne'. Dermatologists explain that recent studies have found no direct link between chocolate consumption and acne. Acne is mainly caused by hormonal changes, excess oil production, clogged pores, and bacteria. While some people may experience acne flare-ups after eating chocolate, this is likely due to individual sensitivity or the high sugar content in some chocolates (not the chocolate itself). Moderate chocolate consumption is unlikely to cause acne.",
+      "isFake": true,
+      "reporter": "Tian Forty-nine",
+      "date": "2025-09-04 14:10",
+      "imageUrl": "https://picsum.photos/id/1080/800/400",
+      "voteFake": 79,
+      "voteReal": 24
+    },
+    {
+      "id": 48,
+      "title": "City Hosts International Marathon",
+      "summary": "The 3rd City International Marathon will be held on October 15, with 10,000 participants",
+      "content": "The city's sports bureau announced today that the 3rd City International Marathon will be held on October 15. The marathon will have three categories: full marathon (42.195 km), half marathon (21.0975 km), and mini marathon (5 km), with a total of 10,000 participants. The route will start from the City Square, pass through scenic spots such as West Lake and Riverside Park, and end at the Sports Center. Registration opens on September 10 and closes when full. Participants will receive a commemorative T-shirt, medal, and补给 package.",
+      "isFake": false,
+      "reporter": "Jiang Fifty",
+      "date": "2025-09-03 09:00",
+      "imageUrl": "https://picsum.photos/id/106/800/400",
+      "voteFake": 2,
+      "voteReal": 69
+    },
+    {
+      "id": 49,
+      "title": "Using Hair Dye Causes Hair Loss and Liver Damage",
+      "summary": "Rumors claim frequent hair dye use leads to hair loss and liver damage",
+      "content": "A post shared by middle-aged women claims that 'dyeing hair more than once a month causes hair loss and permanent liver damage'. Toxicologists clarify that modern hair dyes use safer ingredients, and occasional use (once every 2-3 months) is safe for healthy individuals. While some people may experience allergic reactions to hair dye, there is no evidence that it causes hair loss or liver damage in normal use. Hair loss from hair dye is usually due to improper application (e.g., leaving dye on too long), not the dye itself.",
+      "isFake": true,
+      "reporter": "Bai Fifty-one",
+      "date": "2025-09-02 17:30",
+      "imageUrl": "https://picsum.photos/id/237/800/400",
+      "voteFake": 83,
+      "voteReal": 26
+    },
+    {
+      "id": 50,
+      "title": "Local Library Adds Braille Books for Visually Impaired Readers",
+      "summary": "1,000 braille books and 5 audio books added to support visually impaired residents",
+      "content": "The city library announced today that it has added 1,000 braille books and 5 audio books to its collection to better serve visually impaired readers. The braille books cover various genres, including literature, history, and self-help, and the audio books are narrated by professional voice actors. The library also provides free braille readers and audio players for on-site use. Visually impaired residents can apply for a special library card to borrow braille books and audio books for free, with a borrowing period of 30 days.",
+      "isFake": false,
+      "reporter": "Jin Fifty-two",
+      "date": "2025-09-01 11:40",
+      "imageUrl": "https://picsum.photos/id/20/800/400",
+      "voteFake": 0,
+      "voteReal": 54
+    },
+    {
+      "id": 51,
+      "title": "Drinking Coconut Oil Every Day Burns Fat",
+      "summary": "Rumors claim drinking a spoonful of coconut oil daily burns belly fat",
+      "content": "A weight-loss trend claims that 'drinking one spoonful of coconut oil every morning boosts metabolism and burns belly fat'. Nutritionists warn that coconut oil is 90% saturated fat and contains 120 calories per tablespoon—far more calories than the same amount of olive oil (119 calories) or butter (102 calories). There is no scientific evidence that coconut oil burns fat; in fact, excessive consumption can lead to weight gain and increased cholesterol levels. Healthy weight loss requires a calorie deficit, not coconut oil.",
+      "isFake": true,
+      "reporter": "Qiu Fifty-three",
+      "date": "2025-08-31 15:50",
+      "imageUrl": "https://picsum.photos/id/101/800/400",
+      "voteFake": 89,
+      "voteReal": 31
+    },
+    {
+      "id": 52,
+      "title": "City Repairs 100 Road Potholes in Downtown Area",
+      "summary": "The transportation department completes repair of 100 road potholes to improve traffic safety",
+      "content": "The city's transportation department announced today that it has completed the repair of 100 road potholes in the downtown area. The potholes were mainly located on busy roads such as Main Street, Park Road, and Central Avenue, which were damaged by heavy rain and frequent traffic. The repair work was carried out at night to minimize traffic disruption, and high-quality asphalt was used to ensure durability. The transportation department reminds drivers to drive carefully and report any new potholes through the city's official app.",
+      "isFake": false,
+      "reporter": "Xue Fifty-four",
+      "date": "2025-08-30 08:50",
+      "imageUrl": "https://picsum.photos/id/1059/800/400",
+      "voteFake": 1,
+      "voteReal": 43
+    },
+    {
+      "id": 53,
+      "title": "Eating Late at Night Causes Weight Gain",
+      "summary": "Common myth claims eating after 8 PM leads to weight gain",
+      "content": "A widely believed myth claims that 'eating after 8 PM causes the body to store more fat, leading to weight gain'. Nutritionists explain that weight gain depends on total daily calorie intake, not the time of eating. Eating a small, healthy snack (e.g., fruit, yogurt) late at night is unlikely to cause weight gain if it fits within daily calorie limits. However, late-night meals that are high in calories, sugar, and fat (e.g., fast food, snacks) can contribute to weight gain—regardless of the time. The key is calorie balance, not meal timing.",
+      "isFake": true,
+      "reporter": "Luo Fifty-five",
+      "date": "2025-08-29 14:20",
+      "imageUrl": "https://picsum.photos/id/1080/800/400",
+      "voteFake": 72,
+      "voteReal": 23
+    },
+    {
+      "id": 54,
+      "title": "Local Museum Offers Free Guided Tours for Students",
+      "summary": "Students with student ID cards can enjoy free guided tours every Wednesday",
+      "content": "The city museum announced today that it will offer free guided tours for students every Wednesday starting from September 3. Students with valid student ID cards (from primary school to university) can join the guided tours, which start at 10 AM and 2 PM. The tours will last 90 minutes and cover the museum's main exhibitions, including ancient artifacts, modern art, and local history. Students can sign up for the tours at the museum's information desk on the day of the tour, with no advance reservation required. The museum hopes this initiative will promote cultural education among young people.",
+      "isFake": false,
+      "reporter": "Tang Fifty-six",
+      "date": "2025-08-28 10:10",
+      "imageUrl": "https://picsum.photos/id/175/800/400",
+      "voteFake": 0,
+      "voteReal": 39
+    },
+    {
+      "id": 55,
+      "title": "Using Sunscreen Causes Vitamin D Deficiency",
+      "summary": "Rumors claim wearing sunscreen blocks vitamin D production, leading to deficiency",
+      "content": "A health article claims that 'wearing SPF 30+ sunscreen every day blocks 99% of vitamin D production, leading to deficiency'. Dermatologists explain that while sunscreen reduces vitamin D production, it does not completely block it—even SPF 30 allows about 10% of UVB rays (which produce vitamin D) to pass through. Additionally, most people do not apply sunscreen perfectly, and small amounts of sun exposure (10-15 minutes a day without sunscreen) are enough to meet daily vitamin D needs. Wearing sunscreen is essential to prevent skin cancer, and vitamin D deficiency can be addressed through diet or supplements if needed.",
+      "isFake": true,
+      "reporter": "Wu Fifty-seven",
+      "date": "2025-08-27 16:30",
+      "imageUrl": "https://picsum.photos/id/287/800/400",
+      "voteFake": 86,
+      "voteReal": 29
+    },
+    {
+      "id": 56,
+      "title": "City Launches Pet Adoption Campaign",
+      "summary": "The city's animal shelter holds a pet adoption campaign, with 50 cats and dogs available",
+      "content": "The city's animal shelter launched a pet adoption campaign today, aiming to find homes for 50 stray cats and dogs. The campaign will run for a week at the shelter's courtyard, and all animals have been vaccinated, dewormed, and neutered. Prospective adopters need to provide proof of residence and sign an adoption agreement promising to care for the pet responsibly. The shelter will also provide free pet food samples and a one-month health check-up for newly adopted pets. The shelter hopes this campaign will reduce the number of stray animals in the city.",
+      "isFake": false,
+      "reporter": "Zheng Fifty-eight",
+      "date": "2025-08-26 09:30",
+      "imageUrl": "https://picsum.photos/id/237/800/400",
+      "voteFake": 1,
+      "voteReal": 71
+    },
+    {
+      "id": 57,
+      "title": "Eating Carrots Improves Night Vision",
+      "summary": "Traditional belief claims eating carrots enhances night vision",
+      "content": "A traditional belief claims that 'eating carrots every day improves night vision, especially for drivers'. Nutritionists explain that carrots are rich in beta-carotene (which converts to vitamin A), which is essential for maintaining healthy eyesight. However, vitamin A only prevents night blindness caused by deficiency—it does not improve normal night vision. The myth originated from a World War II propaganda campaign by the British government to hide the use of radar technology (claiming pilots ate carrots to see better at night). For people with normal vitamin A levels, eating more carrots will not improve night vision.",
+      "isFake": true,
+      "reporter": "Wang Fifty-nine",
+      "date": "2025-08-25 15:00",
+      "imageUrl": "https://picsum.photos/id/1080/800/400",
+      "voteFake": 77,
+      "voteReal": 25
+    },
+    {
+      "id": 58,
+      "title": "Local Community Center Offers Free Computer Classes for Seniors",
+      "summary": "Weekly computer classes to teach seniors basic skills like online shopping and video calls",
+      "content": "The city's community center announced today that it will offer free computer classes for seniors starting from September 1. The classes will be held every Tuesday and Thursday from 2 PM to 4 PM, targeting seniors aged 60 and above. The curriculum includes basic computer operations, using WeChat for video calls, online shopping, and accessing government services online. The center will provide computers, and volunteers will offer one-on-one guidance. Seniors can sign up at their community neighborhood committee, and the first class will have 30 spots available. The center hopes to help seniors keep up with digital technology.",
+      "isFake": false,
+      "reporter": "Li Sixty",
+      "date": "2025-08-24 10:50",
+      "imageUrl": "https://picsum.photos/id/0/800/400",
+      "voteFake": 0,
+      "voteReal": 48
+    },
+    {
+      "id": 59,
+      "title": "Drinking Coffee Stunts Growth in Children",
+      "summary": "Myth claims children who drink coffee will not grow tall",
+      "content": "A long-standing myth claims that 'children who drink coffee regularly will have stunted growth and be shorter than their peers'. Pediatricians explain that there is no scientific evidence linking coffee consumption to stunted growth in children. Growth is mainly determined by genetics, nutrition, and sleep. While coffee contains caffeine, which can affect sleep if consumed in large amounts (and poor sleep can impact growth), moderate coffee consumption (1-2 cups a day for teenagers) is unlikely to affect growth. The myth likely originated from concerns about caffeine's effects on children, but it has been disproven by multiple studies.",
+      "isFake": true,
+      "reporter": "Zhang Sixty-one",
+      "date": "2025-08-23 14:40",
+      "imageUrl": "https://picsum.photos/id/1060/800/400",
+      "voteFake": 81,
+      "voteReal": 30
+    },
+    {
+      "id": 60,
+      "title": "City Holds Annual Flower Festival",
+      "summary": "The 8th City Flower Festival opens, showcasing over 10,000 flowers of 200 varieties",
+      "content": "The city's garden bureau announced that the 8th Annual Flower Festival opened today at the City Botanical Garden. The festival covers an area of 50,000 square meters, showcasing over 10,000 flowers of 200 varieties, including roses, lilies, tulips, and chrysanthemums. There are also flower arrangement exhibitions, gardening workshops, and flower-themed photo zones. The festival will run until September 10, and admission is 30 yuan for adults and 15 yuan for children (under 1.2 meters tall free). The garden bureau expects to attract over 100,000 visitors during the festival.",
+      "isFake": false,
+      "reporter": "Chen Sixty-two",
+      "date": "2025-08-22 09:20",
+      "imageUrl": "https://picsum.photos/id/175/800/400",
+      "voteFake": 2,
+      "voteReal": 64
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "newsId": 1,
+      "username": "Resident A",
+      "content": "I just asked the water authority yesterday—there's no water cut plan at all. This news is definitely fake!",
+      "imageUrl": "https://picsum.photos/id/237/200/200",
+      "date": "2025-10-20 09:15",
+      "voteType": "fake"
+    },
+    {
+      "id": 2,
+      "newsId": 1,
+      "username": "Resident B",
+      "content": "This was also sent in our community group. Luckily, I didn't stock up on water—otherwise, it would just take up space.",
+      "date": "2025-10-20 09:30",
+      "voteType": "fake"
+    },
+    {
+      "id": 3,
+      "newsId": 2,
+      "username": "Reader C",
+      "content": "Great news! Finally, more e-books are available—I don't have to go to the library anymore.",
+      "imageUrl": "https://picsum.photos/id/24/200/200",
+      "date": "2025-10-19 15:00",
+      "voteType": "real"
+    },
+    {
+      "id": 4,
+      "newsId": 3,
+      "username": "Parent D",
+      "content": "My child has been drinking this brand. I was shocked when I saw the news—glad it's fake!",
+      "date": "2025-10-18 10:20",
+      "voteType": "fake"
+    },
+    {
+      "id": 5,
+      "newsId": 4,
+      "username": "Office Worker E",
+      "content": "Route 202 goes directly to my company. I don't have to squeeze the subway to work anymore!",
+      "imageUrl": "https://picsum.photos/id/106/200/200",
+      "date": "2025-10-17 10:30",
+      "voteType": "real"
+    },
+    {
+      "id": 6,
+      "newsId": 5,
+      "username": "Doctor F",
+      "content": "As a doctor, I can confirm that garlic has no effect on preventing COVID-19. Please follow scientific prevention methods.",
+      "imageUrl": "https://picsum.photos/id/287/200/200",
+      "date": "2025-10-16 17:00",
+      "voteType": "fake"
+    },
+    {
+      "id": 7,
+      "newsId": 6,
+      "username": "Student G",
+      "content": "I'm a computer science student—I can't wait to sign up for this competition! Hope I can win a prize.",
+      "date": "2025-10-15 11:40",
+      "voteType": "real"
+    },
+    {
+      "id": 8,
+      "newsId": 7,
+      "username": "Engineer H",
+      "content": "I work in the electronics industry—phone explosions from charging are extremely rare. The main cause is non-original chargers.",
+      "imageUrl": "https://picsum.photos/id/119/200/200",
+      "date": "2025-10-14 15:30",
+      "voteType": "fake"
+    },
+    {
+      "id": 9,
+      "newsId": 8,
+      "username": "Fitness Enthusiast I",
+      "content": "I went to People's Park yesterday—the new fitness equipment is great! Perfect for morning workouts.",
+      "date": "2025-10-13 08:40",
+      "voteType": "real"
+    },
+    {
+      "id": 10,
+      "newsId": 9,
+      "username": "Entertainment Reporter J",
+      "content": "I contacted the celebrity's studio—they said the retirement news is completely false. The celebrity is filming a new drama.",
+      "imageUrl": "https://picsum.photos/id/338/200/200",
+      "date": "2025-10-12 20:10",
+      "voteType": "fake"
+    },
+    {
+      "id": 11,
+      "newsId": 10,
+      "username": "Parent K",
+      "content": "This is great news! I used to worry about picking up my child after work—now after-school services solve this problem.",
+      "date": "2025-10-11 11:20",
+      "voteType": "real"
+    },
+    {
+      "id": 12,
+      "newsId": 12,
+      "username": "Parent L",
+      "content": "My child had a fever at midnight last week, and we went to this 24-hour pediatric clinic—it was so convenient! The doctors were very patient.",
+      "imageUrl": "https://picsum.photos/id/287/200/200",
+      "date": "2025-10-09 13:40",
+      "voteType": "real"
+    },
+    {
+      "id": 13,
+      "newsId": 13,
+      "username": "Physicist M",
+      "content": "As a physicist, I can confirm that smartphone radiation is non-ionizing and cannot cause cancer. This rumor is completely unscientific.",
+      "date": "2025-10-08 19:30",
+      "voteType": "fake"
+    },
+    {
+      "id": 14,
+      "newsId": 14,
+      "username": "Cyclist N",
+      "content": "I live in the eastern district—finally, there will be more shared bikes! The current ones are always taken by 8 AM.",
+      "imageUrl": "https://picsum.photos/id/1059/200/200",
+      "date": "2025-10-07 11:10",
+      "voteType": "real"
+    },
+    {
+      "id": 15,
+      "newsId": 15,
+      "username": "Nutritionist O",
+      "content": "Tomatoes contain tryptophan, which helps with sleep. Eating them at night won’t cause insomnia—this rumor confuses tomatoes with caffeinated foods.",
+      "date": "2025-10-06 18:50",
+      "voteType": "fake"
+    },
+    {
+      "id": 16,
+      "newsId": 16,
+      "username": "Art Lover P",
+      "content": "I reserved a ticket for the calligraphy exhibition! I’m especially excited to see the Tang Dynasty works—they’re rare.",
+      "imageUrl": "https://picsum.photos/id/175/200/200",
+      "date": "2025-10-05 10:00",
+      "voteType": "real"
+    },
+    {
+      "id": 17,
+      "newsId": 17,
+      "username": "Telecom Engineer Q",
+      "content": "5G signals are just radio waves—they can’t carry viruses. This conspiracy theory is dangerous and misleading.",
+      "date": "2025-10-04 15:20",
+      "voteType": "fake"
+    },
+    {
+      "id": 18,
+      "newsId": 18,
+      "username": "EV Owner R",
+      "content": "I just bought an EV last month—this subsidy is perfect! It will cover my charging costs for half a year.",
+      "imageUrl": "https://picsum.photos/id/106/200/200",
+      "date": "2025-10-03 11:40",
+      "voteType": "real"
+    },
+    {
+      "id": 19,
+      "newsId": 19,
+      "username": "Food Scientist S",
+      "content": "Microwaving preserves more nutrients than boiling—this rumor about toxins is based on misinformation. Use microwave-safe containers and you’re fine.",
+      "date": "2025-10-02 18:10",
+      "voteType": "fake"
+    },
+    {
+      "id": 20,
+      "newsId": 20,
+      "username": "Farmer T",
+      "content": "I have a booth at the agricultural fair—come try our organic apples! They’re picked fresh this morning.",
+      "imageUrl": "https://picsum.photos/id/42/200/200",
+      "date": "2025-10-01 08:30",
+      "voteType": "real"
+    },
+    {
+      "id": 21,
+      "newsId": 21,
+      "username": "Respiratory Therapist U",
+      "content": "I work in a hospital—we wear masks for 8+ hours a day and never have oxygen deficiency. This rumor causes unnecessary mask resistance.",
+      "date": "2025-09-30 15:50",
+      "voteType": "fake"
+    },
+    {
+      "id": 22,
+      "newsId": 22,
+      "username": "Parent V",
+      "content": "My 8-year-old joined the reading club last week—she loved discussing fairy tales with the librarian. Highly recommend!",
+      "imageUrl": "https://picsum.photos/id/20/200/200",
+      "date": "2025-09-29 10:50",
+      "voteType": "real"
+    },
+    {
+      "id": 23,
+      "newsId": 23,
+      "username": "ER Doctor W",
+      "content": "Injecting coconut water into veins is life-threatening—we’ve treated patients with heart failure from this. Do NOT try this!",
+      "date": "2025-09-28 18:40",
+      "voteType": "fake"
+    },
+    {
+      "id": 24,
+      "newsId": 24,
+      "username": "Commuter X",
+      "content": "I used Alipay to pay for the bus this morning—it was so fast! No more fumbling for change or my transport card.",
+      "imageUrl": "https://picsum.photos/id/1059/200/200",
+      "date": "2025-09-27 14:30",
+      "voteType": "real"
+    },
+    {
+      "id": 25,
+      "newsId": 25,
+      "username": "Gas Station Attendant Y",
+      "content": "I’ve worked at a gas station for 10 years—never seen a phone cause an explosion. The real risk is static from getting in/out of the car.",
+      "date": "2025-09-26 09:40",
+      "voteType": "fake"
+    },
+    {
+      "id": 26,
+      "newsId": 26,
+      "username": "AI Student Z",
+      "content": "I’m a computer science major—this AI research center is a big deal! I hope to intern there next year.",
+      "imageUrl": "https://picsum.photos/id/0/200/200",
+      "date": "2025-09-25 17:10",
+      "voteType": "real"
+    },
+    {
+      "id": 27,
+      "newsId": 27,
+      "username": "Cardiologist AA",
+      "content": "We tell patients with normal cholesterol to eat eggs daily—they’re a great source of protein. This old myth needs to be debunked.",
+      "date": "2025-09-24 11:50",
+      "voteType": "fake"
+    },
+    {
+      "id": 28,
+      "newsId": 28,
+      "username": "Housewife BB",
+      "content": "I exchange my garbage points for laundry detergent every month—it’s a great way to encourage correct sorting!",
+      "imageUrl": "https://picsum.photos/id/175/200/200",
+      "date": "2025-09-23 09:00",
+      "voteType": "real"
+    },
+    {
+      "id": 29,
+      "newsId": 29,
+      "username": "Urologist CC",
+      "content": "We’ve never seen a case of infertility from WiFi. Sperm health is affected by genetics, lifestyle, and stress—not radio waves.",
+      "date": "2025-09-22 16:20",
+      "voteType": "fake"
+    },
+    {
+      "id": 30,
+      "newsId": 30,
+      "username": "Photographer DD",
+      "content": "The young artists’ exhibition has amazing photos—some capture urban life so vividly. I took a lot of pictures there.",
+      "imageUrl": "https://picsum.photos/id/338/200/200",
+      "date": "2025-09-21 10:30",
+      "voteType": "real"
+    },
+    {
+      "id": 31,
+      "newsId": 31,
+      "username": "Cardiologist EE",
+      "content": "Vinegar is acidic and can damage your stomach—never rely on it to dissolve blood clots. Take prescribed medication instead.",
+      "date": "2025-09-20 17:50",
+      "voteType": "fake"
+    },
+    {
+      "id": 32,
+      "newsId": 32,
+      "username": "Student FF",
+      "content": "I used the free WiFi at the park yesterday—it was fast enough to video call my family. Great addition!",
+      "imageUrl": "https://picsum.photos/id/1059/200/200",
+      "date": "2025-09-19 14:10",
+      "voteType": "real"
+    },
+    {
+      "id": 33,
+      "newsId": 33,
+      "username": "Dentist GG",
+      "content": "Fluoride in toothpaste prevents cavities—we recommend it to all patients. This cancer rumor is harmful to oral health.",
+      "date": "2025-09-18 10:20",
+      "voteType": "fake"
+    },
+    {
+      "id": 34,
+      "newsId": 34,
+      "username": "Zoo Visitor HH",
+      "content": "I saw the panda cubs on the zoo’s live stream—they’re so tiny! Can’t wait to see them in person in November.",
+      "imageUrl": "https://picsum.photos/id/287/200/200",
+      "date": "2025-09-17 15:40",
+      "voteType": "real"
+    },
+    {
+      "id": 35,
+      "newsId": 35,
+      "username": "Nutritionist II",
+      "content": "Brown sugar has almost no iron—eat red meat or spinach if you need to replenish blood. This traditional belief is outdated.",
+      "date": "2025-09-16 12:00",
+      "voteType": "fake"
+    },
+    {
+      "id": 36,
+      "newsId": 36,
+      "username": "Caregiver JJ",
+      "content": "My 85-year-old grandma uses this meal delivery service—the food is soft and tasty. It’s a huge help for our family.",
+      "imageUrl": "https://picsum.photos/id/42/200/200",
+      "date": "2025-09-15 08:50",
+      "voteType": "real"
+    },
+    {
+      "id": 37,
+      "newsId": 37,
+      "username": "Dermatologist KK",
+      "content": "Hair loss is usually genetic—I’ve never had a patient whose hair loss was caused by phone radiation. Manage stress instead!",
+      "date": "2025-09-14 16:30",
+      "voteType": "fake"
+    },
+    {
+      "id": 38,
+      "newsId": 38,
+      "username": "Book Lover LL",
+      "content": "I’m a big fan of Li Ming—his last novel was amazing. I’ll be at the signing event early to get a good seat.",
+      "imageUrl": "https://picsum.photos/id/20/200/200",
+      "date": "2025-09-13 11:10",
+      "voteType": "real"
+    },
+    {
+      "id": 39,
+      "newsId": 39,
+      "username": "Pediatrician MM",
+      "content": "I’ve treated thousands of kids—never had one with appendicitis from watermelon seeds. This is just a childhood myth.",
+      "date": "2025-09-12 15:00",
+      "voteType": "fake"
+    },
+    {
+      "id": 40,
+      "newsId": 40,
+      "username": "Driver NN",
+      "content": "The smart parking meters are great—I used the app to find a spot downtown in 2 minutes. No more circling the block!",
+      "imageUrl": "https://picsum.photos/id/106/200/200",
+      "date": "2025-09-11 09:40",
+      "voteType": "real"
+    },
+    {
+      "id": 41,
+      "newsId": 41,
+      "username": "HVAC Technician OO",
+      "content": "Modern ACs with HEPA filters clean the air—we install them in hospitals. Ventilate regularly, and ACs won’t spread viruses.",
+      "date": "2025-09-10 18:20",
+      "voteType": "fake"
+    },
+    {
+      "id": 42,
+      "newsId": 42,
+      "username": "Teacher PP",
+      "content": "I’m a teacher at No. 1 Middle School—our robotics team worked so hard for this win! We’re all so proud of them.",
+      "imageUrl": "https://picsum.photos/id/0/200/200",
+      "date": "2025-09-09 12:20",
+      "voteType": "real"
+    },
+    {
+      "id": 43,
+      "newsId": 43,
+      "username": "Endocrinologist QQ",
+      "content": "Green tea can’t cure diabetes—my patients who tried this ended up with high blood sugar. Follow your treatment plan!",
+      "date": "2025-09-08 15:50",
+      "voteType": "fake"
+    },
+    {
+      "id": 44,
+      "newsId": 44,
+      "username": "Swim Coach RR",
+      "content": "The new pool is beautiful—we’re starting beginner lessons next week. It’s great for kids to learn to swim safely.",
+      "imageUrl": "https://picsum.photos/id/175/200/200",
+      "date": "2025-09-07 09:10",
+      "voteType": "real"
+    },
+    {
+      "id": 45,
+      "newsId": 45,
+      "username": "Otolaryngologist SS",
+      "content": "Bluetooth headphones are safe—hearing damage from loud volume is the real risk. Keep volume below 60%!",
+      "date": "2025-09-06 17:10",
+      "voteType": "fake"
+    },
+    {
+      "id": 46,
+      "newsId": 46,
+      "username": "Housewife TT",
+      "content": "I ordered vegetables online yesterday—they were fresh and delivered in 2 hours. So much easier than going to the market.",
+      "imageUrl": "https://picsum.photos/id/42/200/200",
+      "date": "2025-09-05 10:50",
+      "voteType": "real"
+    },
+    {
+      "id": 47,
+      "newsId": 47,
+      "username": "Dermatologist UU",
+      "content": "I’ve studied acne for 15 years—chocolate doesn’t cause it. Hormones and pore health are the main factors.",
+      "date": "2025-09-04 14:40",
+      "voteType": "fake"
+    },
+    {
+      "id": 48,
+      "newsId": 48,
+      "username": "Marathon Runner VV",
+      "content": "I’m signing up for the half marathon! The route through West Lake is beautiful—perfect for a fall run.",
+      "imageUrl": "https://picsum.photos/id/106/200/200",
+      "date": "2025-09-03 09:30",
+      "voteType": "real"
+    },
+    {
+      "id": 49,
+      "newsId": 49,
+      "username": "Hairdresser WW",
+      "content": "I’ve been a hairdresser for 20 years—hair dye doesn’t cause hair loss if applied correctly. Patch tests prevent allergies.",
+      "date": "2025-09-02 18:00",
+      "voteType": "fake"
+    },
+    {
+      "id": 50,
+      "newsId": 50,
+      "username": "Visually Impaired Reader XX",
+      "content": "The new braille books are amazing—I borrowed 3 last week. The library’s service for visually impaired people is getting better!",
+      "imageUrl": "https://picsum.photos/id/20/200/200",
+      "date": "2025-09-01 12:10",
+      "voteType": "real"
+    },
+    {
+      "id": 51,
+      "newsId": 51,
+      "username": "Nutritionist YY",
+      "content": "Coconut oil is high in saturated fat—1 spoonful has 120 calories. It won’t burn fat; it will make you gain weight if overused.",
+      "date": "2025-08-31 16:20",
+      "voteType": "fake"
+    },
+    {
+      "id": 52,
+      "newsId": 52,
+      "username": "Driver ZZ",
+      "content": "Main Street had so many potholes—my car’s tires were damaged twice. Finally, they’re fixed! The ride is so smooth now.",
+      "imageUrl": "https://picsum.photos/id/1059/200/200",
+      "date": "2025-08-30 09:20",
+      "voteType": "real"
+    },
+    {
+      "id": 53,
+      "newsId": 53,
+      "username": "Dietitian AAA",
+      "content": "I tell my clients to eat when hungry—calorie total matters, not time. A small yogurt at 9 PM won’t make you gain weight.",
+      "date": "2025-08-29 14:50",
+      "voteType": "fake"
+    },
+    {
+      "id": 54,
+      "newsId": 54,
+      "username": "History Teacher BBB",
+      "content": "I took my students to the museum’s guided tour last Wednesday—it was fantastic. The guide explained ancient artifacts so well.",
+      "imageUrl": "https://picsum.photos/id/175/200/200",
+      "date": "2025-08-28 10:40",
+      "voteType": "real"
+    },
+    {
+      "id": 55,
+      "newsId": 55,
+      "username": "Dermatologist CCC",
+      "content": "Sunscreen is essential for skin cancer prevention—10 minutes of sun without it daily gives enough vitamin D. This rumor is dangerous.",
+      "date": "2025-08-27 17:00",
+      "voteType": "fake"
+    },
+    {
+      "id": 56,
+      "newsId": 56,
+      "username": "Pet Adopter DDD",
+      "content": "I adopted a dog from the shelter yesterday—he’s so sweet! The staff was helpful and gave me all the supplies I needed.",
+      "imageUrl": "https://picsum.photos/id/237/200/200",
+      "date": "2025-08-26 10:00",
+      "voteType": "real"
+    },
+    {
+      "id": 57,
+      "newsId": 57,
+      "username": "Optometrist EEE",
+      "content": "Carrots prevent vitamin A deficiency (which causes night blindness) but don’t improve normal night vision. This myth started in WWII.",
+      "date": "2025-08-25 15:30",
+      "voteType": "fake"
+    },
+    {
+      "id": 58,
+      "newsId": 58,
+      "username": "Senior FFF",
+      "content": "I joined the computer class last week—I learned how to video call my grandchildren. The volunteers are very patient with us seniors.",
+      "imageUrl": "https://picsum.photos/id/0/200/200",
+      "date": "2025-08-24 11:20",
+      "voteType": "real"
+    },
+    {
+      "id": 59,
+      "newsId": 59,
+      "username": "Pediatrician GGG",
+      "content": "My 16-year-old drinks a small coffee every morning—he’s 6’2” and still growing. Coffee doesn’t stunt growth in healthy kids.",
+      "date": "2025-08-23 15:10",
+      "voteType": "fake"
+    },
+    {
+      "id": 60,
+      "newsId": 60,
+      "username": "Gardener HHH",
+      "content": "The flower festival is stunning—they have rare tulip varieties I’ve never seen before. I took my family there yesterday, and we had a great time.",
+      "imageUrl": "https://picsum.photos/id/175/200/200",
+      "date": "2025-08-22 09:50",
+      "voteType": "real"
+    },
+    {
+      "newsId": 1,
+      "userName": "ch",
+      "content": "that is fake",
+      "isFakeVote": false,
+      "createdAt": "2025-10-27T00:45:10.831Z",
+      "id": 1761525910831
+    }
+  ]
+}
