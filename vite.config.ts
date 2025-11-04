@@ -1,21 +1,34 @@
-import { defineConfig } from 'vite'
+import { defineConfig, loadEnv } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { fileURLToPath, URL } from 'node:url'
 
-export default defineConfig({
-  plugins: [vue()], // 确保 Vue 插件正常加载，支持 SFC 解析
-  resolve: {
-    alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url)) // 与 tsconfig.json 中 paths 一致，避免路径错误
-    }
-  },
-  server: {
-    proxy: {
-      '/api': {
-        target: 'http://localhost:3001',
-        changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, '')
+export default defineConfig(({ mode }) => {
+  const env = loadEnv(mode, process.cwd())
+  return {
+    plugins: [vue()],
+    resolve: {
+      alias: {
+        '@': fileURLToPath(new URL('./src', import.meta.url))
       }
+    },
+    server: {
+      proxy: {
+        '/api': {
+          target: env.VITE_API_TARGET || 'http://localhost:3001',
+          changeOrigin: true,
+          rewrite: (path) => path.replace(/^\/api/, '')
+        }
+      },
+      port: Number(env.PORT) || 5173,
+      host: true
+    },
+    build: {
+      outDir: 'dist',
+      assetsDir: 'assets',
+      sourcemap: false
+    },
+    define: {
+      'import.meta.env': env
     }
   }
 })

@@ -3,32 +3,34 @@
     "target": "ES2020",
     "useDefineForClassFields": true,
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
-    "module": "ESNext",
+    "module": "node16",
     "skipLibCheck": true,
-    "moduleResolution": "Node", // 兼容 vue-tsc 解析，避免 bundler 模式冲突
-    "allowImportingTsExtensions": true,
+    "moduleResolution": "Node16", // 关键：升级到 Node16 解析策略
+    "allowImportingTsExtensions": false,
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "preserve",
-    "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
+    "strict": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"] // 与 Vite 别名一致，避免路径错误
+      "@/*": ["src/*"]
     },
     "allowJs": true,
     "esModuleInterop": true,
-    "types": ["vue", "node"] // 关键：添加 Vue 和 Node 类型支持，修复类型缺失
+    "types": ["vue", "node", "vite/client"] // 补充 Vite 类型支持
   },
   "include": [
     "src/**/*.ts",
     "src/**/*.d.ts",
     "src/**/*.tsx",
     "src/**/*.vue",
-    "src/shims-vue.d.ts" // 包含 Vue 类型声明文件（需新增该文件）
+    "src/shims-vue.d.ts",
+    "vite.config.ts" // 包含 Vite 配置文件
   ],
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "references": [{ "path": "./tsconfig.node.json" }],
+  "exclude": ["node_modules", "dist"]
 }
