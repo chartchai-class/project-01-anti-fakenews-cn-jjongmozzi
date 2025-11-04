@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "composite": true, // 新增：支持项目引用
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo",
     "target": "ES2023",
     "lib": ["ES2023"],
@@ -7,14 +8,12 @@
     "types": ["node"],
     "skipLibCheck": true,
 
-    /* 调整为 Node 模块解析模式，兼容 Vue-TSC */
     "moduleResolution": "Node",
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
-    "noEmit": true,
+    "noEmit": false, // 修改：允许 emit 以满足项目引用约束
 
-    /* Linting 规则保持严格校验 */
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
@@ -22,7 +21,6 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
 
-    /* 新增 Node 环境兼容配置 */
     "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true
   },
