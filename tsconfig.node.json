@@ -7,20 +7,24 @@
     "types": ["node"],
     "skipLibCheck": true,
 
-    /* Bundler mode */
-    "moduleResolution": "bundler",
+    /* 调整为 Node 模块解析模式，兼容 Vue-TSC */
+    "moduleResolution": "Node",
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
     "noEmit": true,
 
-    /* Linting */
+    /* Linting 规则保持严格校验 */
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true
+    "noUncheckedSideEffectImports": true,
+
+    /* 新增 Node 环境兼容配置 */
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true
   },
   "include": ["vite.config.ts"]
 }
