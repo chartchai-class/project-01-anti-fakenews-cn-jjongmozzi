@@ -27,7 +27,7 @@
  </select>
  </div>
  </div>
- <!-- 新闻列表组件 - 新增传递currentPage和perPage属性 -->
+ <!-- 新闻列表组件 - 参数与 Store 状态类型匹配，修复 TS2339 错误 -->
  <NewsList
  :news-list="newsStore.newsList"
  :total-count="newsStore.totalCount"
@@ -42,16 +42,16 @@
 import { ref, watch } from 'vue'
 import { useNewsStore } from '@/stores/newsStore'
 import NewsList from '@/components/news/NewsList.vue'
-import type { PaginationParams } from '@/types' // 导入类型
+// 修复：删除未使用的 PaginationParams 导入（消除 TS6133 错误）
 
 const newsStore = useNewsStore()
 const page = ref(1)
 const perPage = ref(5)
-// 修复：显式指定 filter 类型，与 PaginationParams 中的 filter 匹配
+// 显式指定 filter 类型，与 PaginationParams 中的 filter 匹配
 const filter = ref<'all' | 'fake' | 'real'>('all')
 
 const fetchNewsList = () => {
- // 此时 params 类型完全匹配 PaginationParams，消除 TS2322 错误
+ // 参数 perPage 已在 PaginationParams 中声明，修复 TS2353 错误
  newsStore.fetchNews({ page: page.value, perPage: perPage.value, filter: filter.value })
 }
 

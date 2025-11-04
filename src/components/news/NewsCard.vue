@@ -29,11 +29,9 @@
  {{ news.isFake ? 'Fake News' : 'Real News' }}
  </span>
  </div>
-
  <p class="text-gray-600 mb-4 line-clamp-3">
  {{ news.summary }}
  </p>
-
  <div class="flex items-center justify-between text-sm text-gray-500">
  <div class="flex items-center space-x-4">
  <span>By {{ news.reporter }}</span>
@@ -54,15 +52,13 @@
  </div>
  </RouterLink>
 </template>
-
 <script setup lang="ts">
 import { RouterLink } from 'vue-router'
-import type { News } from '@/types'
+import type { News } from '@/types' // 依赖修正后的 News 接口
 import { formatDate } from '@/utils/helpers'
 
 interface Props {
  news: News
 }
-
 defineProps<Props>()
 </script>
