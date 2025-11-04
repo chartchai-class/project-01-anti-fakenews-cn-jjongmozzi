@@ -2,16 +2,16 @@
   "compilerOptions": {
     "composite": true,
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo",
-    "target": "ES2022", // 降低目标版本，提升与 vue-tsc 兼容性（避免 ES2023 过高）
+    "target": "ES2022",
     "lib": ["ES2022"],
     "module": "ESNext",
     "types": ["node"],
     "skipLibCheck": true,
     "moduleResolution": "Node",
-    "allowImportingTsExtensions": true,
+    "allowImportingTsExtensions": false, // 关键：同步关闭，避免解析异常
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
-    "noEmit": false, // 满足项目引用约束，无需修改
+    "noEmit": false,
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
