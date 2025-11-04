@@ -3,18 +3,15 @@
   <div v-if="isLoading" class="flex justify-center items-center h-20">
     <div class="animate-spin rounded-full h-10 w-10 border-4 border-blue-200 border-t-blue-600"></div>
   </div>
-
   <!-- 新闻列表 -->
   <div v-else-if="newsList.length > 0" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <NewsCard v-for="news in newsList" :key="news.id" :news="news" />
   </div>
-
   <!-- 空状态 -->
   <div v-else class="text-center py-16">
     <p class="text-gray-500 text-lg">No news found matching your filter.</p>
     <p class="mt-2 text-sm text-gray-400">Total news available: {{ totalCount }}</p>
   </div>
-
   <!-- 分页组件 -->
   <Pagination
     v-if="totalCount > 0"
@@ -24,15 +21,14 @@
     @page-change="handlePageChange"
   />
 </template>
-
 <script setup lang="ts">
 import { defineProps, defineEmits } from 'vue'
 import NewsCard from './NewsCard.vue'
 import Pagination from '@/components/common/Pagination.vue'
 import type { News } from '@/types'
 
-// 接收父组件参数（明确类型）
-const props = defineProps<{
+// 修复：解构 props 并显式使用，消除“未使用变量”错误
+const { newsList, isLoading, totalCount, currentPage, perPage } = defineProps<{
   newsList: News[];
   isLoading: boolean;
   totalCount: number;

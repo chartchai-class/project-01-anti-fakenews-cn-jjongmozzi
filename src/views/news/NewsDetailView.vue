@@ -4,7 +4,6 @@
     <div v-if="isLoading" class="flex justify-center p-10">
       <div class="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500"></div>
     </div>
-
     <!-- 新闻详情 -->
     <div v-else-if="news" class="max-w-3xl mx-auto">
       <img 
@@ -31,7 +30,6 @@
         </button>
       </div>
     </div>
-
     <!-- 数据不存在/错误状态 -->
     <div v-else class="text-center p-10">
       <p class="text-gray-500 mb-4">News not found or failed to load</p>
@@ -44,15 +42,14 @@
     </div>
   </div>
 </template>
-
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
-import { useRoute, useRouter } from 'vue-router'
+import { useRoute } from 'vue-router' // 移除未使用的 useRouter
 import { useNewsStore } from '@/stores/newsStore'
 import type { News } from '@/types'
 
 const route = useRoute()
-const router = useRouter()
+// 修复：删除未使用的 router 变量
 const newsStore = useNewsStore()
 const news = ref<News | null>(null)
 const isLoading = ref(true)

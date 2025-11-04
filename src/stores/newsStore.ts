@@ -9,7 +9,6 @@ export const useNewsStore = defineStore('news', {
     totalCount: 0,
     isLoading: false
   }),
-
   actions: {
     async fetchNews(params: PaginationParams) {
       this.isLoading = true
@@ -18,13 +17,11 @@ export const useNewsStore = defineStore('news', {
         let filteredNews = (mockData.news as News[]) || []
         if (params.filter === 'fake') filteredNews = filteredNews.filter(item => item.isFake)
         if (params.filter === 'real') filteredNews = filteredNews.filter(item => !item.isFake)
-
         // 2. 分页计算（强制数字类型，避免NaN）
         const page = Math.max(1, Number(params.page) || 1)
         const perPage = Math.max(1, Number(params.perPage) || 5)
         const start = (page - 1) * perPage
         const end = start + perPage
-
         // 3. 更新数据
         this.newsList = filteredNews.slice(start, end)
         this.totalCount = filteredNews.length  // 总条数用于分页计算
@@ -36,7 +33,6 @@ export const useNewsStore = defineStore('news', {
         this.isLoading = false
       }
     },
-
     async fetchNewsById(id: number) {
       this.isLoading = true
       try {
@@ -46,7 +42,6 @@ export const useNewsStore = defineStore('news', {
         this.isLoading = false
       }
     },
-
     setCurrentNews(news: News | null) {
       this.currentNews = news
     }

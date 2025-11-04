@@ -38,18 +38,20 @@
  />
  </div>
 </template>
-
 <script setup lang="ts">
 import { ref, watch } from 'vue'
 import { useNewsStore } from '@/stores/newsStore'
 import NewsList from '@/components/news/NewsList.vue'
+import type { PaginationParams } from '@/types' // 导入类型
 
 const newsStore = useNewsStore()
 const page = ref(1)
 const perPage = ref(5)
-const filter = ref('all')
+// 修复：显式指定 filter 类型，与 PaginationParams 中的 filter 匹配
+const filter = ref<'all' | 'fake' | 'real'>('all')
 
 const fetchNewsList = () => {
+ // 此时 params 类型完全匹配 PaginationParams，消除 TS2322 错误
  newsStore.fetchNews({ page: page.value, perPage: perPage.value, filter: filter.value })
 }
 

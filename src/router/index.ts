@@ -68,7 +68,8 @@ const router = createRouter({
       component: () => import('@/views/NetworkErrorView.vue')
     }
   ],
-  scrollBehavior(to, from, savedPosition) {
+  // 修复：用 _ 前缀标记未使用的 to/from，消除 TS6133 错误
+  scrollBehavior(_to, _from, savedPosition) {
     if (savedPosition) {
       return savedPosition
     } else {
