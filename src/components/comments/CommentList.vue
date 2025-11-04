@@ -11,14 +11,13 @@
     </div>
   </div>
 </template>
-
 <script setup lang="ts">
-import type { Comment } from '@/types'
+import type { Comment } from '@/types' // 依赖修正后的 Comment 接口
 import CommentItem from './CommentItem.vue'
+import { defineProps } from 'vue' // 补充 defineProps 导入
 
 interface Props {
   comments: Comment[]
 }
-
 defineProps<Props>()
 </script>

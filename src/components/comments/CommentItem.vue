@@ -27,14 +27,13 @@
     </div>
   </div>
 </template>
-
 <script setup lang="ts">
-import type { Comment } from '@/types'
+import type { Comment } from '@/types' // 依赖修正后的 Comment 接口
 import { formatDate } from '@/utils/helpers'
+import { defineProps } from 'vue' // 补充 defineProps 导入
 
 interface Props {
   comment: Comment
 }
-
 defineProps<Props>()
 </script>

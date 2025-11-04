@@ -14,7 +14,6 @@
           class="w-full border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         >
       </div>
-
       <div class="mb-4">
         <label for="content" class="block text-sm font-medium text-gray-700 mb-1">
           Comment
@@ -27,7 +26,6 @@
           class="w-full border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         ></textarea>
       </div>
-
       <div class="mb-4">
         <label class="block text-sm font-medium text-gray-700 mb-2">Your Vote</label>
         <div class="flex space-x-4">
@@ -51,7 +49,6 @@
           </label>
         </div>
       </div>
-
       <div class="mb-4">
         <label for="evidenceImage" class="block text-sm font-medium text-gray-700 mb-1">
           Evidence Image URL (Optional)
@@ -64,7 +61,6 @@
           placeholder="https://example.com/evidence.jpg"
         >
       </div>
-
       <button 
         type="submit"
         class="w-full bg-primary-600 text-white py-2 px-4 rounded-md hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2"
@@ -74,18 +70,17 @@
     </form>
   </div>
 </template>
-
 <script setup lang="ts">
-import { reactive } from 'vue'
-import type { Comment } from '@/types'
+import { reactive, defineProps, defineEmits } from 'vue' // 补充 defineProps/defineEmits 导入
+import type { Comment } from '@/types' // 依赖修正后的 Comment 接口
 
 interface Props {
   newsId: number
 }
-
 const props = defineProps<Props>()
+
 const emit = defineEmits<{
-  commentAdded: [comment: Comment]
+  (e: 'comment-added', comment: Comment): void; // 规范事件类型
 }>()
 
 const form = reactive({
@@ -96,6 +91,7 @@ const form = reactive({
 })
 
 const submitComment = () => {
+  // Omit<Comment, 'id'> 类型匹配，无需强制转换
   const newComment: Omit<Comment, 'id'> = {
     newsId: props.newsId,
     userName: form.userName,
@@ -104,10 +100,9 @@ const submitComment = () => {
     evidenceImage: form.evidenceImage || undefined,
     createdAt: new Date().toISOString()
   }
-
-  emit('commentAdded', newComment as Comment)
-
-  // Reset form
+  emit('comment-added', newComment as Comment) // 临时转换（服务会生成 id）
+  
+  // 重置表单
   form.userName = ''
   form.content = ''
   form.isFakeVote = false
