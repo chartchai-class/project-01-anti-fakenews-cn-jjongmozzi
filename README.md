@@ -58,9 +58,10 @@ Mobile-adaptive style adjustments (button size, spacing optimization)
 
 
 
+Here are the details of our project:
+
 Project Overview：
 This project is a social media platform for anti-fake news, integrating news browsing, authenticity voting, and comment interaction. Users can access news, participate in judging news authenticity, post comments, and exchange opinions to jointly resist the spread of false information. The platform is built with modern frontend technologies and supports responsive design for various devices.
-
 
 
 Technology Stack：
@@ -74,17 +75,16 @@ Deployment Platform: Vercel
 Code Hosting: GitHub
 
 
-
 Core Features：
 News Module: News list display, detail viewing, category filtering
 Voting Module: credible/not credible voting for news authenticity and result display
 Comment Module: Post comments, view comment lists, and comment interaction
 Global Features: Page navigation, loading status prompts, error handling
 
+
 Deployment and Access
 Online Deployment URL: https://project-01-anti-fakenews-cn-jjongmo.vercel.app
 GitHub Repository URL: https://github.com/chartchai-class/project-01-anti-fakenews-cn-jjongmozzi.git
-
 
 
 Local Running Steps
@@ -92,7 +92,6 @@ Clone the repository: git clone [repository URL]
 Install dependencies: npm install
 Start development server: npm run dev
 Build for production: npm run build
-
 
 
 Project screenshot display:
@@ -107,11 +106,9 @@ Project screenshot display:
 ![screenshot9](./screenshots/9.png)
 
 
-
 Vercel screenshot of successful deployment page：
 ![screenshot10](./screenshots/10.png)
 ![screenshot11](./screenshots/11.png)
-
 
 
 Github screenshot display of warehouse page:
