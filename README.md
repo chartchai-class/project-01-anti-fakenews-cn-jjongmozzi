@@ -31,7 +31,7 @@ Team Members and Contributions (Including Coding/Deployment/Git Operations)：
 
 project leader: Chen Han  20232079
 project member: Li Yiheng   20232047
-project member；Huang Qiuyue  20232074
+project member：Huang Qiuyue  20232074
 
 Chen Han (Team Leader) - Student ID: 20232079 (80% workload)
 ![photo of chenhan](./screenshots/chenhan20232079.jpg)
