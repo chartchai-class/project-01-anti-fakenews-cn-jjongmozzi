@@ -26,9 +26,8 @@ Comment Module: Post comments, view comment lists, and comment interaction
 Global Features: Page navigation, loading status prompts, error handling
 
 
-
+Group Name：project-01-anti-fakenews-cn-jjongmozzi
 Team Members and Contributions (Including Coding/Deployment/Git Operations)：
-
 project leader: Chen Han  20232079
 project member: Li Yiheng   20232047
 project member：Huang Qiuyue  20232074
