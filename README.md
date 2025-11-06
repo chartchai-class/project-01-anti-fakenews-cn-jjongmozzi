@@ -95,15 +95,37 @@ Build for production: npm run build
 
 
 Project screenshot display:
+
+five news items per page:
 ![screenshot1](./screenshots/1.png)
+five news items per page and toggle between the front and back pages:
 ![screenshot2](./screenshots/2.png)
+ten news items per page:
 ![screenshot3](./screenshots/3.png)
+ten news items per page and toggle between the front and back pages:
 ![screenshot4](./screenshots/4.png)
+twenty news items per page:
+![screenshot14](./screenshots/14.png)
+twenty news items per page and toggle between the front and back pages:
+![screenshot15](./screenshots/15.png)
+filter out fake news:
 ![screenshot5](./screenshots/5.png)
+filter out real news:
 ![screenshot6](./screenshots/6.png)
+news details page display:
 ![screenshot7](./screenshots/7.png)
+comment function page display:
 ![screenshot8](./screenshots/8.png)
+user posts comments:
+![screenshot16](./screenshots/16.png)
+user posted comment successfully:
+![screenshot17](./screenshots/17.png)
+vote and comment function page display:
 ![screenshot9](./screenshots/9.png)
+users vote and comment:
+![screenshot18](./screenshots/18.png)
+voted and commented successfully；
+![screenshot19](./screenshots/19.png)
 
 
 Vercel screenshot of successful deployment page：
