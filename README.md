@@ -31,30 +31,59 @@ Merged team members' code and conducted final testing and launch
 Unified code specifications and fixed type checking issues
 Optimized page loading performance and user experience
 Handled cross-browser compatibility issues
+5.some parts of Comment Function Development
+6.some parts of Auxiliary Function Implementation
+7.some parts of Voting and Interaction Function Development
+8.some parts pf UI and Experience Optimization
+
+codes written by ChenHan20232079:
+/package.json
+/vite.config.ts
+/tsconfig.json
+/src/main.ts
+/src/App.vue
+/src/router/index.ts
+/src/router/routes.ts	
+/src/stores/index.ts
+/src/stores/newsStore.ts
+/src/views/Home.vue
+/src/components/news/NewsList.vue
+/src/components/common/Pagination.vue
+/src/views/NewsDetail.vue
+/src/components/news/NewsHeader.vue
+/src/components/news/NewsContent.vue
+/public/db.json
+/src/api/newsApi.ts
+/vercel.json
+/src/stores/commentStore.ts
+/src/components/comment/CommentList.vue
+/src/stores/voteStore.ts
+/src/components/vote/VoteButtonGroup.vue
+/src/components/news/NewsCard.vue
+
 
 
 Li Yiheng - Student ID: 20232047 (10% workload)
 ![photo of liyiheng](./screenshots/liyiheng20232047.jpg)
-1. Comment Function Development
-Comment list component (CommentList.vue) and comment item component (CommentItem.vue)
-Comment data service (commentService.ts) and API interface encapsulation
-Utility functions for comment time formatting and content truncation (utils/format.ts)
-2. Auxiliary Function Implementation
-Defined global constants (constants.ts): including API addresses, pagination size, etc.
-Supplemented type declarations (shims-vue.d.ts): solved Vue component type recognition issues
-Developed loading animations and empty state prompts for the comment section
+1. other parts of Comment Function Development
+2. other parts of Auxiliary Function Implementation
+
+codes written by Li Yiheng20232047:
+/src/components/comment/CommentForm.vue
+/src/views/NewsDetail.vue
+/src/types/comment.ts
+
 
 
 Huang Qiuyue - Student ID: 20232074 (10% workload)
 ![photo of huangqiuyue](./screenshots/huangqiuyue20232074.jpg)
-1. Voting and Interaction Function Development
-Voting button component (VoteButton.vue) and vote result display component (VoteResult.vue)
-Voting state management (voteStore.ts) and data service (voteService.ts)
-Voting restriction logic (preventing duplicate votes, recording user voting status)
-2. UI and Experience Optimization
-Global message prompt system (messageStore.ts): handling success/error prompts
-Navigation bar component (Header.vue) and page transition animations
-Mobile-adaptive style adjustments (button size, spacing optimization)
+1. other parts of Voting and Interaction Function Development
+2. other parts of UI and Experience Optimization
+
+codes written by Huang Qiuyue20232074:
+/src/views/NewsDetail.vue
+/src/components/common/Button.vue
+/src/components/common/Card.vue
 
 
 
