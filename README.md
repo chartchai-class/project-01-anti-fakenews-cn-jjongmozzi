@@ -1,4 +1,4 @@
-Social Anti-Fake News Platform
+Social Anti-Fake News Platform (first half,frontend)
 
 Group Name：project-01-anti-fakenews-cn-jjongmozzi
 
@@ -113,7 +113,7 @@ Global Features: Page navigation, loading status prompts, error handling
 
 Deployment and Access
 Online Deployment URL: https://project-01-anti-fakenews-cn-jjongmo.vercel.app
-GitHub Repository URL: https://github.com/chartchai-class/project-01-anti-fakenews-cn-jjongmozzi.git
+GitHub Repository URL of frontend: https://github.com/chartchai-class/project-01-anti-fakenews-cn-jjongmozzi.git
 Presentation video URL:https://pan.baidu.com/s/1BTxPkioLtWSg-ExP1MdeNQ?pwd=dpe3 
 If you need to enter the extraction code to view the video, the video extraction code is: dpe3
 
